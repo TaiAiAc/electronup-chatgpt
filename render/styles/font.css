@@ -1,0 +1,33 @@
+@font-face{
+  font-family: 'HarmonyOS_Black';
+  src : url('/font/HarmonyOS_Sans_SC_Black.ttf');
+}
+
+@font-face{
+  font-family: 'HarmonyOS_Bold';
+  src : url('/font/HarmonyOS_Sans_SC_Bold.ttf');
+}
+
+@font-face{
+  font-family: 'HarmonyOS_Light';
+  src : url('/font/HarmonyOS_Sans_SC_Light.ttf');
+}
+
+@font-face{
+  font-family: 'HarmonyOS_Medium';
+  src : url('/font/HarmonyOS_Sans_SC_Medium.ttf');
+}
+
+@font-face{
+  font-family: 'HarmonyOS_Regular';
+  src : url('/font/HarmonyOS_Sans_SC_Regular.ttf');
+}
+
+@font-face{
+  font-family: 'HarmonyOS_Thin';
+  src : url('/font/HarmonyOS_Sans_SC_Thin.ttf');
+}
+
+body{
+  font-family: 'HarmonyOS_Thin';
+}

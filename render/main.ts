@@ -1,4 +1,4 @@
-import './styles/style.css'
+import './styles/index.css'
 import { EventKeys, IpcWindowOptions } from '@quiteer/electron-ipc/web'
 import { createPinia } from 'pinia'
 import App from './App.vue'

@@ -26,6 +26,7 @@
   "dependencies": {
     "@quiteer/electron-ipc": "^0.1.0",
     "@quiteer/electron-preload": "^0.0.9",
+    "sanitize.css": "^13.0.0",
     "sqlite3": "^5.1.4"
   },
   "devDependencies": {
